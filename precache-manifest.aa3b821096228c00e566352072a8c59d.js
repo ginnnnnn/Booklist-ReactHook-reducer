@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "23b07766e83a515c9b3d929266bc7cf7",
+    "revision": "23afc5f61a37898fff9fff7155e59f24",
     "url": "/Booklist-ReactHook-reducer/index.html"
   },
   {
-    "revision": "a929d08559755a17e150",
+    "revision": "e75d9dd86b313cfbc28f",
     "url": "/Booklist-ReactHook-reducer/static/css/main.719106ed.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Booklist-ReactHook-reducer/static/js/2.44afff6c.chunk.js"
   },
   {
-    "revision": "a929d08559755a17e150",
-    "url": "/Booklist-ReactHook-reducer/static/js/main.86b2765d.chunk.js"
+    "revision": "e75d9dd86b313cfbc28f",
+    "url": "/Booklist-ReactHook-reducer/static/js/main.75a82571.chunk.js"
   },
   {
     "revision": "b2a2f01ebbf67a145184",
