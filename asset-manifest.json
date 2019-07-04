@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Booklist-ReactHook-reducer-theNetNinja-notes/static/css/main.719106ed.chunk.css",
-    "main.js": "/Booklist-ReactHook-reducer-theNetNinja-notes/static/js/main.c5c4bda1.chunk.js",
-    "main.js.map": "/Booklist-ReactHook-reducer-theNetNinja-notes/static/js/main.c5c4bda1.chunk.js.map",
-    "runtime~main.js": "/Booklist-ReactHook-reducer-theNetNinja-notes/static/js/runtime~main.51175138.js",
-    "runtime~main.js.map": "/Booklist-ReactHook-reducer-theNetNinja-notes/static/js/runtime~main.51175138.js.map",
-    "static/js/2.44afff6c.chunk.js": "/Booklist-ReactHook-reducer-theNetNinja-notes/static/js/2.44afff6c.chunk.js",
-    "static/js/2.44afff6c.chunk.js.map": "/Booklist-ReactHook-reducer-theNetNinja-notes/static/js/2.44afff6c.chunk.js.map",
-    "index.html": "/Booklist-ReactHook-reducer-theNetNinja-notes/index.html",
-    "precache-manifest.922c02d47c75abb1288b0fded9438778.js": "/Booklist-ReactHook-reducer-theNetNinja-notes/precache-manifest.922c02d47c75abb1288b0fded9438778.js",
-    "service-worker.js": "/Booklist-ReactHook-reducer-theNetNinja-notes/service-worker.js",
-    "static/css/main.719106ed.chunk.css.map": "/Booklist-ReactHook-reducer-theNetNinja-notes/static/css/main.719106ed.chunk.css.map"
+    "main.css": "/Booklist-ReactHook-reducer/static/css/main.719106ed.chunk.css",
+    "main.js": "/Booklist-ReactHook-reducer/static/js/main.86b2765d.chunk.js",
+    "main.js.map": "/Booklist-ReactHook-reducer/static/js/main.86b2765d.chunk.js.map",
+    "runtime~main.js": "/Booklist-ReactHook-reducer/static/js/runtime~main.bc61c9a2.js",
+    "runtime~main.js.map": "/Booklist-ReactHook-reducer/static/js/runtime~main.bc61c9a2.js.map",
+    "static/js/2.44afff6c.chunk.js": "/Booklist-ReactHook-reducer/static/js/2.44afff6c.chunk.js",
+    "static/js/2.44afff6c.chunk.js.map": "/Booklist-ReactHook-reducer/static/js/2.44afff6c.chunk.js.map",
+    "index.html": "/Booklist-ReactHook-reducer/index.html",
+    "precache-manifest.c55a742543c8f1223cbe9bb3baf39e02.js": "/Booklist-ReactHook-reducer/precache-manifest.c55a742543c8f1223cbe9bb3baf39e02.js",
+    "service-worker.js": "/Booklist-ReactHook-reducer/service-worker.js",
+    "static/css/main.719106ed.chunk.css.map": "/Booklist-ReactHook-reducer/static/css/main.719106ed.chunk.css.map"
   }
 }
